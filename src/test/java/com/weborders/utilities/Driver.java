@@ -1,4 +1,4 @@
-package com.vytrack.utilities;
+package com.weborders.utilities;
 
 import com.weborders.utilities.ConfigurationReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
